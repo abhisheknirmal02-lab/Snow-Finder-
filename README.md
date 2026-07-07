@@ -115,6 +115,12 @@ GeoKey = Number.RoundDown([Latitude] * 4) / 4
 
 *Star Schema — resorts · snow · Calendar · Resort Lookup · GeoKey join on 0.25° coordinate grid*
 
+## 📢 LinkedIn Post
+
+> 💼 **[Read the full project post on LinkedIn](https://www.linkedin.com/posts/abhishek-nirmal-3b6325370_powerbi-dataanalytics-datacleaning-ugcPost-7480210400320446464-6HIX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFviafoB81VhL8wnXIJZgzBBx7T90KIEDFY)**
+>
+> Shared my Snow Finder project on LinkedIn — covering the data cleaning journey, GeoKey engineering, and Power BI dashboard walkthrough.
+
 ---
 
 📁 `.pbix` included &nbsp;|&nbsp; ⛷️ 499 resorts · 38 countries &nbsp;|&nbsp; ❄️ 820K+ snow records &nbsp;|&nbsp; 🧹 156 names manually cleaned &nbsp;|&nbsp; 🎬 Demo video included
