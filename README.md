@@ -105,7 +105,7 @@ GeoKey = Number.RoundDown([Latitude] * 4) / 4
 
 ## 🖼️ Dashboard Preview
 
-![Snow Finder Dashboard](https://github.com/abhisheknirmal02-lab/Snow-Finder-/blob/main/Snow%20finder.png?raw=true)
+![Snow Finder Dashboard](https://github.com/abhisheknirmal02-lab/Snow-Finder-/blob/main/Snow%20Finder%20SS.png?raw=true)
 
 ---
 
